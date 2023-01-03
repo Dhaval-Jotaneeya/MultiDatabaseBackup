@@ -1,0 +1,7 @@
+DumpFilePath==C:\Program Files\PostgreSQL\15\bin\pg_dump.exe
+Host==localhost
+MaintainaceDB==postgres
+OutFolderPath==C:\Users\jotan\3D Objects\backup
+Pass==postgres
+Port==5440
+User==postgres
